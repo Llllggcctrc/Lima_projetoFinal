@@ -1,0 +1,7 @@
+[build]
+  publish = "portfolio-pessoal"
+
+[[redirects]]
+  from = "/portfolio-pessoal/images/imagem.jpeg"
+  to = "/images/imagem.jpeg"
+  status = 200
